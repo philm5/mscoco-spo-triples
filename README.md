@@ -12,7 +12,7 @@ This repository contains the MSCOCO extracted SPO triples for the validation dat
 
 If you are using these annotations, please cite our paper
 
-'''
+```
 @INPROCEEDINGS{8695365, 
 author={P. {Harzig} and D. {Zecha} and R. {Lienhart} and C. {Kaiser} and R. {Schallner}}, 
 booktitle={2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)}, 
@@ -25,4 +25,4 @@ keywords={computer vision;image annotation;learning (artificial intelligence);ma
 doi={10.1109/MIPR.2019.00085}, 
 ISSN={}, 
 month={March},}
-'''
+```
